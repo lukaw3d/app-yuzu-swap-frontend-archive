@@ -590,10 +590,10 @@ export default function Header() {
             </StyledNOutLink>
             {eopen && (
                 <MenuFlyout className="s-top-links s-header-flyout">
-                  <a className="s-top-link-button"  href='/#/tradingmining'>
+                  <a className="s-top-link-button"  href='#/tradingmining'>
                     {t('tradingmining')}
                   </a>
-                  <a className="s-top-link-button" href='/#/liquiditymining'>
+                  <a className="s-top-link-button" href='#/liquiditymining'>
                     {t('boardroom')}
                   </a>
                 </MenuFlyout>

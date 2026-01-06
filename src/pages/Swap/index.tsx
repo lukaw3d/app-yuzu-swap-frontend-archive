@@ -330,7 +330,7 @@ export default function Swap() {
                   <ButtonLRTab  disabled={true} onClick={()=>{}}>SWAP</ButtonLRTab>
               </SwitchWrapper>
               <SwitchWrapper show={!true}>
-                  <ButtonLRTab  disabled={!true} onClick={()=>{window.location.href= "/#/limitorder"}}>LIMIT</ButtonLRTab>
+                  <ButtonLRTab  disabled={!true} onClick={()=>{window.location.href= "#/limitorder"}}>LIMIT</ButtonLRTab>
               </SwitchWrapper>
           </div>
           <div style={{width: '80%'}}>

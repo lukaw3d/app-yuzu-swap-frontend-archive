@@ -467,10 +467,10 @@ export default function LimitOrder() {
         <div style={{display : 'flex', padding : "20px 0 20px " , height: "90px"}}>
           <div className="s-xyuzu-tab" >
               <SwitchWrapper show={false} >
-                  <ButtonLRTab  disabled={false} onClick={()=>{window.location.href= "/#/swap"}}>SWAP</ButtonLRTab>
+                  <ButtonLRTab  disabled={false} onClick={()=>{window.location.href= "#/swap"}}>SWAP</ButtonLRTab>
               </SwitchWrapper>
               <SwitchWrapper show={true}>
-                  <ButtonLRTab  disabled={true} onClick={()=>{window.location.href= "/#/limitorder"}}>LIMIT</ButtonLRTab>
+                  <ButtonLRTab  disabled={true} onClick={()=>{window.location.href= "#/limitorder"}}>LIMIT</ButtonLRTab>
               </SwitchWrapper>
           </div>
           <div className='s-limitorder-tab'>

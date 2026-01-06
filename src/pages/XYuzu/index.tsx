@@ -90,7 +90,7 @@ export function XYuzu(){
                     <span className="s-banner-title">YUZU for xYUZU</span>
                 </div>
                 <div className="s-xyuzu-header-text1" style={{marginTop:"20px", position:"relative"}}>
-                Stake xYUZU in <a style={{cursor:'pointer', textDecoration: 'none'}} href={"/#/liquiditymining/select/-1/extselect/"+ xyuzuIndex}>Single Token Staking</a> to mine both YUZU and ROSE at the same time.
+                Stake xYUZU in <a style={{cursor:'pointer', textDecoration: 'none'}} href={"#/liquiditymining/select/-1/extselect/"+ xyuzuIndex}>Single Token Staking</a> to mine both YUZU and ROSE at the same time.
                 <QuestionHelper text={t("xyuzuhintQ")}/>
                 </div>
                 <div style={{marginTop:"20px"}} className="s-xyuzu-header-summary">

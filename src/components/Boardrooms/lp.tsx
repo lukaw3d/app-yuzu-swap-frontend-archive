@@ -63,7 +63,7 @@ export default function BoardroomLP({zoopark}:{zoopark :StakePool}  ) {
           xyuzu?
           <Line style={{marginBottom:"0.5rem"}}>
             <h2>xYUZU</h2>
-            <h2 style={{cursor:"pointer"}} onClick={()=>{window.location.href= "/#/xyuzu"}}>Get xYUZU</h2>
+            <h2 style={{cursor:"pointer"}} onClick={()=>{window.location.href= "#/xyuzu"}}>Get xYUZU</h2>
           </Line>
           :
           <h2  style={{marginBottom:"0.5rem"}}>{zoopark.token0.symbol}/{zoopark.token1.symbol}</h2>
