@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1177e706e91472eab8b83b04a280266",
+    "revision": "38ba1f0c1b7fb9d2b28d32cbb0699bab",
     "url": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/css/4.703d6eed.chunk.css"
   },
   {
-    "revision": "a5e6b4047e85ba7e9198",
+    "revision": "40169f170bbea238aea6",
     "url": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/css/main.36fd707f.chunk.css"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/9.239b461c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5e6b4047e85ba7e9198",
-    "url": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/main.3d41db54.chunk.js"
+    "revision": "40169f170bbea238aea6",
+    "url": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/main.cbb60afe.chunk.js"
   },
   {
     "revision": "f8ae2be4e01482a6b3e3",

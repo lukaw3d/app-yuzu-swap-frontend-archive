@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/precache-manifest.d7edd2cb32fabbf2281d97e5e92d0c55.js"
+  "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/precache-manifest.5fd24aa9d217d578ef49fb80ad79356c.js"
 );
 
 self.addEventListener('message', (event) => {

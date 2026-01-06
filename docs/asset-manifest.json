@@ -3,7 +3,7 @@
     "static/js/0.182ecd01.chunk.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/0.182ecd01.chunk.js",
     "static/js/1.0d3144ae.chunk.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/1.0d3144ae.chunk.js",
     "main.css": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/css/main.36fd707f.chunk.css",
-    "main.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/main.3d41db54.chunk.js",
+    "main.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/main.cbb60afe.chunk.js",
     "runtime-main.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/runtime-main.c491d7b0.js",
     "static/css/4.703d6eed.chunk.css": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/css/4.703d6eed.chunk.css",
     "static/js/4.33b43cc5.chunk.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/4.33b43cc5.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/10.9c36bae1.chunk.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/10.9c36bae1.chunk.js",
     "static/js/11.fcdd4231.chunk.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/11.fcdd4231.chunk.js",
     "index.html": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/index.html",
-    "precache-manifest.d7edd2cb32fabbf2281d97e5e92d0c55.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/precache-manifest.d7edd2cb32fabbf2281d97e5e92d0c55.js",
+    "precache-manifest.5fd24aa9d217d578ef49fb80ad79356c.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/precache-manifest.5fd24aa9d217d578ef49fb80ad79356c.js",
     "service-worker.js": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/service-worker.js",
     "static/js/0.182ecd01.chunk.js.LICENSE.txt": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/0.182ecd01.chunk.js.LICENSE.txt",
     "static/js/4.33b43cc5.chunk.js.LICENSE.txt": "https://lukaw3d.github.io/app-yuzu-swap-frontend-archive/static/js/4.33b43cc5.chunk.js.LICENSE.txt",
@@ -85,6 +85,6 @@
     "static/css/4.703d6eed.chunk.css",
     "static/js/4.33b43cc5.chunk.js",
     "static/css/main.36fd707f.chunk.css",
-    "static/js/main.3d41db54.chunk.js"
+    "static/js/main.cbb60afe.chunk.js"
   ]
 }
