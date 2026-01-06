@@ -1,0 +1,17 @@
+{
+  "short_name": "YuzuSwap",
+  "name": "YuzuSwap",
+  "icons": [
+    {
+      "src": "./images/yuzulogo.svg",
+      "sizes": "70x70",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#ED4962",
+  "background_color": "#fff",
+  "start_url": "/"
+}

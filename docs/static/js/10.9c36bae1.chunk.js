@@ -1,0 +1,1 @@
+(this.webpackJsonpyuzuswap=this.webpackJsonpyuzuswap||[]).push([[10],{1427:function(p,s){}}]);
